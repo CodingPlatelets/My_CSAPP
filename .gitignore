@@ -2,7 +2,7 @@
 *.d
 
 # binary file
-/bin
+*/bin
 
 # Object files
 *.o
